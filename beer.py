@@ -29,8 +29,15 @@ vysledna_hustota = 190
 vysledna_ucinnost = vysledna_hustota/ucinnost_pre_objem 
 print 'Vysledna ucinnotst: ' + str(vysledna_ucinnost*100)+'%\n\n'
 
+vysledny_cukor = vysledna_hustota*vysledny_objem
+print 'Vysledny cukor: ' +str(vysledny_cukor)+'g'
 
+print 'Vysledny cukor bez laktozy: ' + str(vysledny_cukor - 500)
+print 'Vysledna husota bez laktozy: ' + str((vysledny_cukor-500)/vysledny_objem)
+print 'Vysledna ucinnost bez laktozy ' + str((((vysledny_cukor-500)/vysledny_objem)/ucinnost_pre_objem)*100)
+ 
 
+print '\n\n\n\n\n'
 slady = [('PaleAle', 4000, 81.5)]
 
 total_cukor = 0
