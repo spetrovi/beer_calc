@@ -97,16 +97,10 @@ objem = 24
 hustota = 120
 calculate2(nazov, slady, objem, hustota)
 
-nazov = 'Vajano'
-slady = [('PaleAle', 5000, 81.5)]
-objem = 24
-hustota = 120
-calculate2(nazov, slady, objem, hustota)
-
 
 nazov = 'Pumpkin'
 slady = [('PaleAle', 5000, 81.5), ('Carabelge', 300, 74)]
-objem = 24
-hustota = 126
+objem = 26
+hustota = 100
 calculate2(nazov, slady, objem, hustota)
 
