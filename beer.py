@@ -101,6 +101,12 @@ calculate2(nazov, slady, objem, hustota)
 nazov = 'Pumpkin'
 slady = [('PaleAle', 5000, 81.5), ('Carabelge', 300, 74)]
 objem = 26
-hustota = 100
+hustota = 98
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'PumpkinII'
+slady = [('PaleAle', 5000, 81.5), ('Mnichov', 1000, 80), ('Caraaroma', 300, 74)]
+objem = 28
+hustota = 129
 calculate2(nazov, slady, objem, hustota)
 
