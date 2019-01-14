@@ -110,3 +110,8 @@ objem = 28
 hustota = 129
 calculate2(nazov, slady, objem, hustota)
 
+nazov = 'Araga'
+slady = [('PaleAle', 6000, 81.5)]
+objem = 26
+hustota = 126
+calculate2(nazov, slady, objem, hustota)
