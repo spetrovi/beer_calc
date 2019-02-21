@@ -121,3 +121,10 @@ slady = [('Mnichovsky', 7000, 80), ('Plzensky', 3500, 81.1), ('Karamelovy', 500,
 objem = 26
 hustota = 220
 calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Orchestree'
+slady = [('PaleAle', 5000, 81.5), ('Carahell', 400, 74)]
+objem = 26
+hustota = 110
+calculate2(nazov, slady, objem, hustota)
+
