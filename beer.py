@@ -125,11 +125,83 @@ calculate2(nazov, slady, objem, hustota)
 nazov = 'Orchestree'
 slady = [('PaleAle', 5000, 81.5), ('Carahell', 400, 74)]
 objem = 26
-hustota = 110
-calculate2(nazov, slady, objem, hustota)
 
 nazov = 'Medovina'
 slady = [('Med', 5000, 100)]
-objem = 25
-hustota = 200
+objem = 20
+hustota = 250
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Nelson Ale'
+slady = [('Pale Ale', 5500, 81.5)]
+objem = 26
+hustota = 115
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Laponika III'
+slady = [('Pale Ale', 5500, 81.5)]
+objem = 26
+hustota = 115
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Laponika IV'
+slady = [('Pale Ale', 5000, 81.5),  ('Carahell', 400, 74)]
+objem = 26
+hustota = 110
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Laponika V'
+slady = [('Pale Ale', 11000, 81.5)]
+objem = 55
+hustota = 113
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Ocistne'
+slady = [('Pale Ale', 5000, 81.5)]
+objem = 26
+hustota = 110
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Bruno\'s Beer'
+slady = [('Pale Ale', 5000, 81.5),  ('Carahell', 400, 74)]
+objem = 26
+hustota = 110
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Cherry'
+slady = [('Pale Ale', 5000, 81.5)]
+objem = 26
+hustota = 108
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Kolaudackove'
+slady = [('Pale Ale', 5000, 81.5)]
+objem = 26
+hustota = 110
+calculate2(nazov, slady, objem, hustota)
+
+
+nazov = 'Brusi Pekko'
+slady = [('Pale Ale', 5000, 81.5), ('Carahell', 500, 74)]
+objem = 26
+hustota = 125
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Brusi Rakau'
+slady = [('Pale Ale', 5000, 81.5), ('Carahell', 500, 74)]
+objem = 26
+hustota = 125
+calculate2(nazov, slady, objem, hustota)
+
+nazov = 'Brusi Cascade'
+slady = [('Pale Ale', 5000, 81.5), ('Carahell', 500, 74)]
+objem = 26
+hustota = 125
+calculate2(nazov, slady, objem, hustota)
+
+
+nazov = 'Stout'
+slady = [('Pale Ale', 5000, 81.5), ('Carafa2', 300, 65),('Karamel', 600, 76.8)]
+objem = 26
+hustota = 135
 calculate2(nazov, slady, objem, hustota)
