@@ -201,7 +201,7 @@ calculate2(nazov, slady, objem, hustota)
 
 
 nazov = 'Stout'
-slady = [('Pale Ale', 5000, 81.5), ('Carafa2', 300, 65),('Karamel', 600, 76.8)]
+slady = [('Pale Ale', 5000, 81.5), ('Carafa2', 400, 65),('Karamel', 500, 76.8)]
 objem = 26
 hustota = 135
 calculate2(nazov, slady, objem, hustota)
