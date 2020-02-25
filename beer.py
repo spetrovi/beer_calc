@@ -205,3 +205,15 @@ slady = [('Pale Ale', 5000, 81.5), ('Carafa2', 400, 65),('Karamel', 500, 76.8)]
 objem = 26
 hustota = 135
 calculate2(nazov, slady, objem, hustota)
+
+
+nazov = 'Dvojky'
+slady = [('Pale Ale', 3500, 81.5), ('Caraaroma', 500, 74), ('Vytazok', 500, 100)]
+objem = 25
+hustota = 135
+calculate2(nazov, slady, objem, hustota)
+
+
+
+
+
