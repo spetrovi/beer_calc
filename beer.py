@@ -213,6 +213,12 @@ objem = 25
 hustota = 135
 calculate2(nazov, slady, objem, hustota)
 
+nazov = 'Milkshake'
+slady = [('Pale Ale', 5000, 81.5), ('Psenicny', 500, 82.3), ('Dextroza', 500, 100), ('Laktoza', 500, 100)]
+objem = 26
+hustota = 170
+calculate2(nazov, slady, objem, hustota)
+
 
 
 
